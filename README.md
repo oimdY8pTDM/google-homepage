@@ -1,0 +1,1 @@
+This project will be a clone of the Google homepage. It's purpose is to gain experience using HTML and CSS.
